@@ -1,0 +1,347 @@
+
+.desktop-1 {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 1853px;
+  overflow: hidden;
+  width: 1440px;
+}
+.desktop-1 .cum-laude-society {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 12px;
+  margin-top: 18px;
+  min-height: 28px;
+}
+.desktop-1 .dentons-law-firm {
+  height: 28px;
+  letter-spacing: 0px;
+  min-height: 28px;
+  min-width: 196px;
+}
+.desktop-1 .education {
+  height: 33px;
+  letter-spacing: 0px;
+  margin-left: 12px;
+  margin-top: 36px;
+  min-height: 33px;
+  width: 136px;
+}
+.desktop-1 .esports-club-leader {
+  height: 28px;
+  letter-spacing: 0px;
+  min-height: 28px;
+  min-width: 220px;
+}
+.desktop-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 239px;
+  width: 1051px;
+}
+.desktop-1 .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 35px;
+  margin-right: 2px;
+  margin-top: 15px;
+  min-width: 1274px;
+}
+.desktop-1 .flex-row-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-right: 2px;
+  margin-top: 18px;
+  min-width: 1274px;
+}
+.desktop-1 .flex-row-2 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-right: 2px;
+  margin-top: 40px;
+  min-width: 1274px;
+}
+.desktop-1 .flex-row-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-right: 2px;
+  margin-top: 35px;
+  min-width: 1274px;
+}
+.desktop-1 .flex-row-4 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-right: 2px;
+  margin-top: 34px;
+  min-width: 1274px;
+}
+.desktop-1 .frame-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 1440px;
+  overflow: hidden;
+  width: 1300px;
+}
+.desktop-1 .frame-1-item {
+  height: 33px;
+  letter-spacing: 0px;
+  margin-left: 12px;
+  margin-top: 59px;
+  min-height: 33px;
+  width: 136px;
+}
+.desktop-1 .frame-2 {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  height: 413px;
+  margin-left: 4px;
+  padding: 0 111px;
+  width: 1440px;
+}
+
+.desktop-1 .line-1 {
+  height: 2px;
+  margin-left: -0px;
+  margin-top: 12px;
+  width: 1300px;
+}
+
+.desktop-1 .name {
+  height: 108px;
+  letter-spacing: 0px;
+  min-height: 108px;
+  text-align: center;
+  width: 481px;
+}
+.desktop-1 .new-york-university {
+  align-self: flex-end;
+  height: 28px;
+  letter-spacing: 0px;
+  min-height: 28px;
+  width: 230px;
+}
+.desktop-1 .overlap-group {
+  height: 99px;
+  margin-top: 66px;
+  position: relative;
+  width: 1051px;
+}
+.desktop-1 .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--tulip);
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  height: 75px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  margin-top: 116px;
+  min-width: 140px;
+  padding: 16px 3px;
+}
+.desktop-1 .phone {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 837px;
+  min-height: 28px;
+}
+.desktop-1 .phone-1 {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 871px;
+  min-height: 28px;
+}
+.desktop-1 .phone-2 {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 847px;
+  min-height: 28px;
+}
+.desktop-1 .phone-3 {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 587px;
+  min-height: 28px;
+}
+.desktop-1 .phone-4 {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 753px;
+  min-height: 28px;
+}
+.desktop-1 .phone-5 {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 480px;
+  min-height: 28px;
+}
+.desktop-1 .place {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 12px;
+  margin-top: 59px;
+  min-height: 28px;
+}
+.desktop-1 .rectangle-1 {
+  height: 75px;
+  left: 527px;
+  position: absolute;
+  top: 0px;
+  width: 524px;
+}
+.desktop-1 .span0 {
+  color: rgba(0, 0, 0, 1);
+  font-family: "Roboto-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+}
+.desktop-1 .span1 {
+  color: rgba(0, 0, 0, 1);
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 24px;
+}
+.desktop-1 .submit {
+  letter-spacing: 0px;
+  min-height: 42px;
+  min-width: 132px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.desktop-1 .surname {
+  height: 28px;
+  letter-spacing: 0px;
+  min-height: 28px;
+  min-width: 314px;
+}
+.desktop-1 .text- {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 12px;
+  margin-top: 19px;
+  min-height: 28px;
+}
+.desktop-1 .text-1 {
+  height: 30px;
+  letter-spacing: 0px;
+  margin-top: 15px;
+  min-height: 30px;
+  text-align: center;
+  width: 518px;
+}
+.desktop-1 .text-11 {
+  letter-spacing: 0px;
+  min-height: 74px;
+  width: 508px;
+}
+.desktop-1 .text-12 {
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 0px;
+  width: 529px;
+}
+.desktop-1 .text-2 {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 12px;
+  margin-top: 9px;
+  min-height: 28px;
+}
+.desktop-1 .text-5 {
+  height: 28px;
+  letter-spacing: 0px;
+  min-height: 28px;
+  min-width: 500px;
+}
+.desktop-1 .text-7 {
+  align-self: center;
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 6px;
+  margin-top: 20px;
+  min-height: 28px;
+  min-width: 1282px;
+}
+.desktop-1 .text-8 {
+  height: 28px;
+  letter-spacing: 0px;
+  min-height: 28px;
+  min-width: 600px;
+}
+.desktop-1 .text-9 {
+  height: 28px;
+  letter-spacing: 0px;
+  margin-left: 12px;
+  margin-top: 17px;
+  min-height: 28px;
+}
+.desktop-1 .x000examplecom {
+  background-color: transparent;
+  border: 0;
+  height: 42px;
+  left: 553px;
+  letter-spacing: 0px;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 17px;
+  width: 312px;
+}
+.desktop-1 .x000examplecom::placeholder {
+  color: rgba(0, 0, 0, 0.6);
+}
+* {
+  box-sizing: border-box;
+}
+.roboto-bold-black-24px {
+  color: black;
+  font-family: "Roboto-Bold", Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-black-36px {
+  color: black;
+  font-family: "Roboto-Bold", Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-regular-normal-black-24px {
+  color: black;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-regular-normal-black-36px {
+  color: black;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --tulip: rgba(255, 143, 143, 1);
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
